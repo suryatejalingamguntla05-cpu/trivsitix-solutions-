@@ -402,10 +402,10 @@ function App() {
   }
 
   const currentIndustry = industries.find((industry) => industry.name === activeIndustry) ?? industries[0]
-  const contactEmail = String(import.meta.env.VITE_CONTACT_EMAIL ?? 'hello@trivistixsolutions.com')
-  const phoneNumber = String(import.meta.env.VITE_PHONE_NUMBER ?? '+91 00000 00000')
-  const linkedInUrl = String(import.meta.env.VITE_LINKEDIN_URL ?? 'https://www.linkedin.com')
-  const instagramUrl = String(import.meta.env.VITE_INSTAGRAM_URL ?? 'https://www.instagram.com')
+  const contactEmail = String(import.meta.env.VITE_CONTACT_EMAIL ?? 'trivistixsolutions@gmail.com')
+  const phoneNumber = String(import.meta.env.VITE_PHONE_NUMBER ?? '+919381202530')
+  const linkedInUrl = String(import.meta.env.VITE_LINKEDIN_URL ?? 'https://www.linkedin.com/in/trivistix-solutions-2b5a38422/')
+  const instagramUrl = String(import.meta.env.VITE_INSTAGRAM_URL ?? 'https://www.instagram.com/trivistixsolutions/')
 
   return (
     <>
