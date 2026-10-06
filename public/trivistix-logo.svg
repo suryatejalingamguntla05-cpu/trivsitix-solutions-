@@ -1,0 +1,45 @@
+﻿<svg width="1983" height="793" viewBox="0 0 1983 793" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g1" x1="90" y1="90" x2="470" y2="470" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3DD8FF"/>
+      <stop offset="1" stop-color="#0B6BC7"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#EAF7FF"/>
+      <stop offset="1" stop-color="#D9ECFF"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(80 130)">
+    <rect x="0" y="0" width="500" height="500" rx="170" fill="#09141F"/>
+    <rect x="34" y="34" width="432" height="432" rx="146" fill="none" stroke="url(#g1)" stroke-width="14" opacity="0.9"/>
+
+    <path d="M120 290L210 210L318 210L385 272" stroke="url(#g1)" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M101 347L195 268L305 268L392 347" stroke="url(#g1)" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M208 210V133" stroke="url(#g1)" stroke-width="26" stroke-linecap="round"/>
+    <path d="M208 133H324" stroke="url(#g1)" stroke-width="26" stroke-linecap="round"/>
+    <path d="M324 133V90" stroke="url(#g1)" stroke-width="26" stroke-linecap="round"/>
+    <path d="M95 340H58V258H126" stroke="url(#g1)" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M393 347H437" stroke="url(#g1)" stroke-width="26" stroke-linecap="round"/>
+    <path d="M437 347V132" stroke="url(#g1)" stroke-width="26" stroke-linecap="round"/>
+    <path d="M437 132H348" stroke="url(#g1)" stroke-width="26" stroke-linecap="round"/>
+    <path d="M278 174H358V122" stroke="url(#g1)" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M113 407V450H172" stroke="url(#g1)" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M272 407V450H218" stroke="url(#g1)" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <circle cx="58" cy="258" r="14" fill="#3DD8FF"/>
+    <circle cx="126" cy="90" r="14" fill="#3DD8FF"/>
+    <circle cx="210" cy="133" r="14" fill="#3DD8FF"/>
+    <circle cx="324" cy="90" r="14" fill="#3DD8FF"/>
+    <circle cx="437" cy="132" r="14" fill="#3DD8FF"/>
+    <circle cx="437" cy="347" r="14" fill="#3DD8FF"/>
+    <circle cx="172" cy="450" r="14" fill="#3DD8FF"/>
+    <circle cx="218" cy="450" r="14" fill="#3DD8FF"/>
+  </g>
+
+  <g transform="translate(630 200)">
+    <text x="0" y="160" fill="#F8FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="150" font-weight="800" letter-spacing="-6">TRIVISTIX</text>
+    <text x="0" y="306" fill="#3DD8FF" font-family="Segoe UI, Arial, sans-serif" font-size="128" font-weight="700" letter-spacing="-4">SOLUTIONS</text>
+    <text x="4" y="384" fill="#A9B7C8" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="7">SERVICE • INNOVATION • EXCELLENCE</text>
+  </g>
+</svg>
